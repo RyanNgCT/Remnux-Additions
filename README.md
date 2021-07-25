@@ -14,7 +14,7 @@ $ remnux upgrade
 ```
 
 ```
-$ sudo apt install -y mlocate libreoffice-common hexedit gedit leafpad openssh-server 
+$ sudo apt install -y mlocate libreoffice-common hexedit gedit openssh-server 
 ```
 
 Didier Stevens Suite: https://github.com/DidierStevens/DidierStevensSuite.git
